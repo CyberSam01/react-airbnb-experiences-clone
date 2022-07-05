@@ -11,12 +11,12 @@ body {
 
 h1 {
   margin: .5em 0 .1em 0;
-  font-size: 2.7rem;
+  font-size: 2rem;
 }
 
 p {
   margin: 0;
-  font-size: 1.1rem;
+  font-size: .9rem;
   max-width: 90%;
 }
 
